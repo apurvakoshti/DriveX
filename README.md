@@ -1,5 +1,15 @@
----------------------------------------------------------------------------------------------------------
+# DriveX
 
+## Project Overview
+DriveX is a user-friendly web application that allows you to create an account using your email, log in and log out anytime, and store various types of data such as images, videos, PDFs, and more. 
+
+## Technologies Used
+- **ReactJS**: A JavaScript library for building user interfaces.
+- **Bootstrap**: A front-end framework for developing responsive and mobile-first websites.
+- **Firebase**: A platform developed by Google for creating mobile and web applications, providing backend services like authentication and 
+  database storage.
+
+## Screenshot
 1) Signup Page -
 <img src="assets/1.png" height=290px> 
 
@@ -11,25 +21,6 @@
 
 4) Inside a Folder -
 <img src="assets/4.png" height=290px>
----------------------------------------------------------------------------------------------------------
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
 
 
 
-
-
-T
