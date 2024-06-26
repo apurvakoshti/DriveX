@@ -4,13 +4,13 @@
 <img src="assets/1.png" height=290px> 
 
 2) Login Page -
-<img src="assets/2" height=290px>
+<img src="assets/2.png" height=290px>
 
 3) Home Page-
-<img src="assets/3" height=290px>
+<img src="assets/3.png" height=290px>
 
 4) Inside a Folder -
-<img src="assets/4" height=290px>
+<img src="assets/4.png" height=290px>
 ---------------------------------------------------------------------------------------------------------
 
 # Getting Started with Create React App
